@@ -1,0 +1,19 @@
+# STT
+openai-whisper
+vosk
+
+# LLM
+ollama
+openai
+
+# TTS
+gTTS
+TTS  # coqui-tts
+
+# Audio
+pyaudio
+sounddevice
+numpy
+
+# Utils
+python-dotenv
